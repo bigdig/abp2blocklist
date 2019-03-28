@@ -1707,7 +1707,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cpro\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -1729,7 +1729,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?dup\\.baidustatic\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -1751,7 +1751,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ubmcmm\\.baidustatic\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -1773,7 +1773,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adscdn\\.baidu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -1794,7 +1794,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?als\\.baidu\\.com/dalog/log"
 		]
 	},
@@ -1815,7 +1815,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?eclick\\.baidu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -1837,7 +1837,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?eiv\\.baidu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -1859,7 +1859,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?f11\\.baidu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -1881,7 +1881,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?iwanad\\.baidu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -1903,7 +1903,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?pos\\.baidu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -1925,7 +1925,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?spcode\\.baidu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -1947,7 +1947,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cbjs\\.baidu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -1969,7 +1969,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cbjslog\\.baidu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -1991,7 +1991,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?crs\\.baidu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2007,7 +2007,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?entry\\.baidu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2029,7 +2029,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?hm\\.baidu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2071,7 +2071,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?list\\.video\\.baidu\\.com/pc_static/promotion/"
 		]
 	},
@@ -2092,7 +2092,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?znsv\\.baidu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2114,7 +2114,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?pups\\.bdimg\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2135,7 +2135,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?baike\\.baidu\\.com/api/wikiad/"
 		]
 	},
@@ -2155,7 +2155,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?app\\.video\\.baidu\\.com/adver\\?"
 		]
 	},
@@ -2175,7 +2175,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?v\\.baidu\\.com/staticapi/videoad\\.json\\?"
 		]
 	},
@@ -2207,7 +2207,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?eduad\\.baidu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2223,7 +2223,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?as2\\.wenku\\.baidu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2255,7 +2255,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?img\\.baidu\\.com/hunter/musicmonkey\\.min\\.js"
 		]
 	},
@@ -2275,7 +2275,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?hiphotos\\.baidu\\.com/ting/pic/item/"
 		]
 	},
@@ -2295,7 +2295,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?music\\.baidu\\.com/data/69xiu/"
 		]
 	},
@@ -2349,7 +2349,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ad\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2434,7 +2434,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ads\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2488,7 +2488,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adsense\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2526,7 +2526,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adserver\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2542,7 +2542,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?changyan\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2562,7 +2562,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?g\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2584,7 +2584,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?gg\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2606,7 +2606,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ggg\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2628,7 +2628,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?000dn\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2650,7 +2650,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?00oo00\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2672,7 +2672,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?025suyu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2694,7 +2694,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?0xxd\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2716,7 +2716,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?1133\\.cc([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2738,7 +2738,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?114so\\.cn/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2760,7 +2760,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?1234xm\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2782,7 +2782,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?24haitao\\.net/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2820,7 +2820,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?301pk\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2842,7 +2842,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?lianmeng\\.360\\.cn/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2863,7 +2863,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?360buyimg\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2888,7 +2888,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?37\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2913,7 +2913,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?37wan\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2938,7 +2938,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?38ra\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2960,7 +2960,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?49wanwan\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -2982,7 +2982,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?4wad\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3004,7 +3004,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?51\\.la([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3026,7 +3026,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?5207470\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3048,7 +3048,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?52kmh\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3070,7 +3070,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?6711\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3092,7 +3092,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?6728812\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3114,7 +3114,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?6huu\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3136,7 +3136,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?f70123\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3158,7 +3158,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?75to\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3180,7 +3180,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?7pk\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3202,7 +3202,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?7z66\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3224,7 +3224,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?8521448\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3246,7 +3246,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?85655095\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3280,7 +3280,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?8866786\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3302,7 +3302,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?91hui\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3327,7 +3327,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?9377\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3349,7 +3349,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?9ads\\.net/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3371,7 +3371,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?acasys88\\.cn/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3393,7 +3393,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?acxiom-online\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3415,7 +3415,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?addthis\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3437,7 +3437,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?admaster\\.com\\.cn"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3459,7 +3459,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?admtpmp124\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3481,7 +3481,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adrotator\\.se/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3503,7 +3503,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ads360\\.cn/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3525,7 +3525,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adyun\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3546,7 +3546,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?promotion\\.aliyun\\.com/promotion/adv/getaliyunadv\\.htm\\?"
 		]
 	},
@@ -3567,7 +3567,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?market\\.aliyun\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3589,7 +3589,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?allyes\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3611,7 +3611,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?andmejs\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3636,7 +3636,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?baifendian\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3658,7 +3658,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?bfdcdn\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3680,7 +3680,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?biddingx\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3702,7 +3702,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?boyxu\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3724,7 +3724,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cccrir\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3746,7 +3746,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cdnjsp\\.wang([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3768,7 +3768,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?chenwen7788\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3790,7 +3790,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cmp288\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3812,7 +3812,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cnbole\\.net/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3834,7 +3834,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cnzz\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3856,7 +3856,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?code222\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3878,7 +3878,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?coinhive\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3911,7 +3911,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?coin-hive\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3933,7 +3933,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?coinhive-manager\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3955,7 +3955,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?csad\\.cc([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3977,7 +3977,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ctsywy\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -3999,7 +3999,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?dazhantai\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4024,7 +4024,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?dobest\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4046,7 +4046,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?dleke\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4068,7 +4068,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?e7001\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4090,7 +4090,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?e7002\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4112,7 +4112,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?eclkspbn\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4134,7 +4134,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?f6ce\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4156,7 +4156,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?fd7c\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4178,7 +4178,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?findicons\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4200,7 +4200,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?fsyzcs\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4222,7 +4222,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?fu68\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4244,7 +4244,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?g1c5\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4266,7 +4266,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?gdbly\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4288,7 +4288,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?getnormalizedurl\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4310,7 +4310,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?googleadservices\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4332,7 +4332,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?googlesyndication\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4354,7 +4354,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?google-analytics\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4376,7 +4376,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?govids\\.net/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4398,7 +4398,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?gw630\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4423,7 +4423,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?gyyx\\.cn/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4445,7 +4445,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?gzktpf\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4467,7 +4467,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?hascosafety\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4489,7 +4489,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?hk9600\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4511,7 +4511,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?hnol\\.net/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4533,7 +4533,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?hr41\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4555,7 +4555,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?hr44\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4577,7 +4577,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?humanding\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4599,7 +4599,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?hw6\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4621,7 +4621,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?id528\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4646,7 +4646,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?idcot\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4668,7 +4668,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?il8r\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4690,7 +4690,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?imeijiajia\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4712,7 +4712,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?img80\\.net/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4734,7 +4734,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?irs01\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4756,7 +4756,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cee1\\.iteye\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4778,7 +4778,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cee2\\.iteye\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4800,7 +4800,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?x\\.jd\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4822,7 +4822,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?jfqkj\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4844,7 +4844,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?jiaheyonggu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4866,7 +4866,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?jiathis\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4888,7 +4888,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?jianbaimei\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4910,7 +4910,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?jiawen88\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4932,7 +4932,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?jointreport-switch\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4954,7 +4954,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?jspg\\.cc([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4976,7 +4976,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?jtxh\\.net/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -4998,7 +4998,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ju33\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5023,7 +5023,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?jzyx\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5045,7 +5045,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?kkcaicai\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5067,7 +5067,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?klsdmr\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5092,7 +5092,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?knet\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5114,7 +5114,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?koukou7\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5139,7 +5139,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?kuhou\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5161,7 +5161,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?liuliguo\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5183,7 +5183,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?lndjj\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5205,7 +5205,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?lx167\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5227,7 +5227,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?maomaotang\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5252,7 +5252,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?mipujia\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5274,7 +5274,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?msads\\.net([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5296,7 +5296,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?msypr\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5318,7 +5318,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?mytanwan\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5340,7 +5340,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ndtzx\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5362,7 +5362,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?newrelic\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5384,7 +5384,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?niuxgame77\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5406,7 +5406,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?nmpcdn\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5428,7 +5428,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?nr1234\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5450,7 +5450,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?nthyn\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5472,7 +5472,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?oa129\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5494,7 +5494,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?olcdn\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5516,7 +5516,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?optimix\\.asia([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5538,7 +5538,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?pingshetrip\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5560,7 +5560,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?powergg\\.top/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5582,7 +5582,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?projectwonderful\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5604,7 +5604,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?public6\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5626,7 +5626,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?qbyy010\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5648,7 +5648,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?qihaoqu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5670,7 +5670,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?qiqipower\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5692,7 +5692,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?qiqivv\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5714,7 +5714,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?qiqiww\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5736,7 +5736,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?qucaigg\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5758,7 +5758,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?queene\\.cn/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5780,7 +5780,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?questionmarket\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5802,7 +5802,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?qzdfc\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5824,7 +5824,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?reachmax\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5846,7 +5846,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?rpaulfrank\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5868,7 +5868,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?s8x1\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5890,7 +5890,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?scorecardresearch\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5912,7 +5912,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?sc1369\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5934,7 +5934,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?shanglinli\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5959,7 +5959,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?shouyou\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -5981,7 +5981,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?shxinjie\\.cn/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6003,7 +6003,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?sscefsol\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6025,7 +6025,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?statcounter\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6047,7 +6047,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ta80\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6069,7 +6069,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?tanwanyx\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6091,7 +6091,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?tanx\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6113,7 +6113,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?th21333\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6135,7 +6135,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?thxnr\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6157,7 +6157,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?tudown\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6179,7 +6179,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?tui1999\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6204,7 +6204,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?tk001\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6226,7 +6226,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?tongqing2015\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6248,7 +6248,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?union\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6270,7 +6270,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?uoyrsd\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6295,7 +6295,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?uyan\\.cc/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6320,7 +6320,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?u26u\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6345,7 +6345,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?uum6\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6370,7 +6370,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?um29\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6395,7 +6395,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?vamaker\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6433,7 +6433,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?w8\\.com\\.cn"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6455,7 +6455,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?wangdq\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6477,7 +6477,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?whytoss\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6499,7 +6499,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?winvestern\\.com\\.cn"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6542,7 +6542,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xcdf\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6564,7 +6564,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xe2c\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6586,7 +6586,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?webterren\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6608,7 +6608,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xmshqh\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6630,7 +6630,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?weareqy\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6652,7 +6652,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?werpig\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6674,7 +6674,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xiacaidd\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6696,7 +6696,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xiaoyuanzuqiu\\.cn/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6718,7 +6718,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xk2012\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6740,7 +6740,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xtgreat\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6762,7 +6762,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xyly2016\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6784,7 +6784,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xyxy01\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6809,7 +6809,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xyz([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6831,7 +6831,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xzzyi\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6853,7 +6853,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yccdn\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6875,7 +6875,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yeabble\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6897,7 +6897,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yezilm\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6919,7 +6919,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yhzm\\.cc/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6941,7 +6941,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yongkang6\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6966,7 +6966,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?youxi\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -6988,7 +6988,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yug8\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -7010,7 +7010,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yunbofangbt\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -7032,7 +7032,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yule8\\.net([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -7054,7 +7054,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yunjiasu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -7076,7 +7076,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yunshipei\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -7098,7 +7098,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?zhudiaosz\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -7120,7 +7120,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?zzbaowen\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -7141,7 +7141,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/ads"
 		]
 	},
@@ -7278,7 +7278,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?stat\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -7315,7 +7315,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?wan\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -7340,7 +7340,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?iwan\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -7545,7 +7545,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?media\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -7796,7 +7796,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?www\\.fxxz\\.com/show/html/"
 		]
 	},
@@ -7810,7 +7810,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?www\\.fxxz\\.com/skin/know/html/"
 		]
 	},
@@ -7842,7 +7842,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?js\\.cncrk\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -7874,7 +7874,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cr173\\.com/show/img/"
 		]
 	},
@@ -7905,7 +7905,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cr173\\.com/skin/library/js/head-"
 		]
 	},
@@ -7936,7 +7936,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?crsky\\.com/img/hezi"
 		]
 	},
@@ -7956,7 +7956,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?www\\.crsky\\.com/img/pic\\.js"
 		]
 	},
@@ -7976,7 +7976,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?crsky\\.com/theme/images/fast_down\\."
 		]
 	},
@@ -7996,7 +7996,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?crsky\\.com/theme/images/rd0"
 		]
 	},
@@ -8027,7 +8027,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?www\\.downbank\\.cn/js/gong\\.js"
 		]
 	},
@@ -8047,7 +8047,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?downxia\\.com/dgjs/pic/"
 		]
 	},
@@ -8089,7 +8089,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://res\\.njxzwh\\.com/downza/pc/v2017/images/downAD\\.gif"
 		]
 	},
@@ -8188,7 +8188,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?greenxf\\.com/greenxfad/"
 		]
 	},
@@ -8208,7 +8208,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?greenxf\\.com/js/maim\\.js"
 		]
 	},
@@ -8228,7 +8228,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?greenxf\\.com/js/gyong\\.js"
 		]
 	},
@@ -8248,7 +8248,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?www\\.greenxiazai\\.com/green/"
 		]
 	},
@@ -8286,7 +8286,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?pc6\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -8325,7 +8325,7 @@
 			"script",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.pconline\\.com\\.cn/.*/intf"
 		]
 	},
@@ -8378,7 +8378,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ivy\\.pconline\\.com\\.cn/adpuba/show"
 		]
 	},
@@ -8398,7 +8398,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?pconline\\.com\\.cn/download/images/soft/dl_ad\\.jpg"
 		]
 	},
@@ -8418,7 +8418,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?jwz\\.3conline\\.com/adpuba/"
 		]
 	},
@@ -8483,7 +8483,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?www\\.skycn\\.com/show/d2\\.gif"
 		]
 	},
@@ -8514,7 +8514,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?www\\.skycn\\.com/js/info\\.js"
 		]
 	},
@@ -8556,7 +8556,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?www\\.xiazaiba\\.com/data/xzb_haha\\.js"
 		]
 	},
@@ -8587,7 +8587,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xz7\\.com/js/"
 		]
 	},
@@ -8618,7 +8618,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?afpmm\\.alicdn\\.com/g/"
 		]
 	},
@@ -8701,7 +8701,7 @@
 			"script",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?www\\.zolsky\\.com/hotsoft/"
 		]
 	},
@@ -8715,7 +8715,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?www\\.zolsky\\.com/read/readad/"
 		]
 	},
@@ -8759,7 +8759,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adss\\.video\\.qq\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -8818,7 +8818,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?gtimg\\.com/qqlive/"
 		]
 	},
@@ -8839,7 +8839,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?tencentmind\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -8861,7 +8861,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adsrich\\.qq\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -8882,7 +8882,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?games\\.qq\\.com/playgame/videoweb/"
 		]
 	},
@@ -8902,7 +8902,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?games\\.qq\\.com/playgame/gamesad/js/swfobject\\.js"
 		]
 	},
@@ -8923,7 +8923,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?gdt\\.qq\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -8949,7 +8949,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?qq\\.com/games/"
 		]
 	},
@@ -8969,7 +8969,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?imgcache\\.qq\\.com/qzone/biz/comm/js/qbs\\.js"
 		]
 	},
@@ -8990,7 +8990,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?isdspeed\\.qq\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9011,7 +9011,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?open\\.show\\.qq\\.com/cgi-bin/qqshow_user_gdt_ad\\?"
 		]
 	},
@@ -9031,7 +9031,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?qzs\\.qq\\.com/qzone/biz/"
 		]
 	},
@@ -9052,7 +9052,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?rh\\.qq\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9095,7 +9095,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?taobao\\.qq\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9117,7 +9117,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?tcss\\.qq\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9132,7 +9132,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?view\\.news\\.qq\\.com/pl_ad"
 		]
 	},
@@ -9152,7 +9152,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ca\\.gtimg\\.com/client/"
 		]
 	},
@@ -9172,7 +9172,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ca\\.gtimg\\.com/adplugin/js/adplayer\\.js"
 		]
 	},
@@ -9192,7 +9192,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?discuz\\.gtimg\\.cn/cloud/scripts/discuz_tips\\.js"
 		]
 	},
@@ -9235,7 +9235,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?mat1\\.gtimg\\.com/comic/newqshou/js/ad2v1\\.1\\.js"
 		]
 	},
@@ -9255,7 +9255,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?pgdt\\.gtimg\\.cn/gdt/"
 		]
 	},
@@ -9275,7 +9275,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ra\\.gtimg\\.com/uv/1712104/index\\.js"
 		]
 	},
@@ -9296,7 +9296,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?wa\\.gtimg\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9318,7 +9318,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?swa\\.gtimg\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9339,7 +9339,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?wb\\.gtimg\\.com/adwin/"
 		]
 	},
@@ -9360,7 +9360,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?g\\.163\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9382,7 +9382,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?img1\\.126\\.net/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9404,7 +9404,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?img2\\.126\\.net/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9426,7 +9426,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?img3\\.126\\.net/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9448,7 +9448,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?img6\\.126\\.net/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9469,7 +9469,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?126\\.net/silver/"
 		]
 	},
@@ -9501,7 +9501,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adgeo\\.163\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9523,7 +9523,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?bobo\\.163\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9538,7 +9538,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?bobo\\.com/special/"
 		]
 	},
@@ -9553,7 +9553,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?baoxian\\.163\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9569,7 +9569,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?caipiao\\.163\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9588,7 +9588,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?lofter\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9609,7 +9609,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https://nex\\.163\\.com/q\\?"
 		]
 	},
@@ -9629,7 +9629,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?shared\\.youdao\\.com/dao/search/outweb/js/"
 		]
 	},
@@ -9683,7 +9683,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?tf\\.360\\.cn/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9704,7 +9704,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?www\\.so\\.com/paoscore/ads"
 		]
 	},
@@ -9739,7 +9739,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?sina\\.com\\.cn/iframe/76/"
 		]
 	},
@@ -9759,7 +9759,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?sina\\.com\\.cn/litong/"
 		]
 	},
@@ -9780,7 +9780,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adbox\\.sina\\.com\\.cn/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9802,7 +9802,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?beacon\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9824,7 +9824,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?sbeacon\\.sina\\.com\\.cn/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9846,7 +9846,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?d1\\.sina\\.com\\.cn/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9868,7 +9868,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?d2\\.sina\\.com\\.cn/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9890,7 +9890,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?d3\\.sina\\.com\\.cn/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9912,7 +9912,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?pfp\\.sina\\.com\\.cn/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9929,7 +9929,7 @@
 			"script",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?rm\\.sina\\.com\\.cn/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9951,7 +9951,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?sax\\.sina\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9973,7 +9973,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?dmp\\.sina\\.cn/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -9988,7 +9988,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?ifeng\\.com/a_if/"
 		]
 	},
@@ -10008,7 +10008,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ifeng\\.com/a_if/taobao/"
 		]
 	},
@@ -10022,7 +10022,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?ifeng\\.com/ssi-incs/"
 		]
 	},
@@ -10043,7 +10043,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?deliver\\.ifeng\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10059,7 +10059,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?games\\.ifeng\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10080,7 +10080,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?games\\.ifeng\\.com/webgame/"
 		]
 	},
@@ -10101,7 +10101,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?stadig\\.ifeng\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10122,7 +10122,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ifengimg\\.com/ifeng/sources/"
 		]
 	},
@@ -10142,7 +10142,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ifengimg\\.com/mappa/"
 		]
 	},
@@ -10158,7 +10158,7 @@
 			"media",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?ifengimg\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10224,7 +10224,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?qidian\\.com/ejs/qd/js/read\\.qidian\\.com/gamebox\\."
 		]
 	},
@@ -10252,7 +10252,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?cj\\.qidian\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10319,7 +10319,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?www\\.zongheng\\.com/zhda/zhda\\.html"
 		]
 	},
@@ -10413,7 +10413,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?img16\\.diyifanwen\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10435,7 +10435,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yijiuningyia\\.gushiwen\\.org"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10457,7 +10457,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?a\\.lz13\\.cn/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10479,7 +10479,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cgm\\.shicimingju\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10500,7 +10500,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?www\\.shicimingju\\.com/scmjddd/"
 		]
 	},
@@ -10515,7 +10515,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.1ting\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10541,7 +10541,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.4399\\.com/loadimg/iframe_"
 		]
 	},
@@ -10573,7 +10573,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?i1\\.51cto\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10595,7 +10595,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?i2\\.51cto\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10617,7 +10617,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?i3\\.51cto\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10651,7 +10651,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ku\\.92to\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10672,7 +10672,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?92to\\.com/skin/js/"
 		]
 	},
@@ -10693,7 +10693,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?tj\\.ali213\\.net/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10735,7 +10735,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?x\\.autoimg\\.cn/dealer/custom/subsite/forcepicad20160628\\.js"
 		]
 	},
@@ -10755,7 +10755,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?autoimg\\.cn/admdfs/"
 		]
 	},
@@ -10775,7 +10775,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?autohome\\.com\\.cn/adfront/"
 		]
 	},
@@ -10796,7 +10796,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?hdad\\.baike\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10817,7 +10817,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?www\\.bdsola\\.com/js/common\\.js"
 		]
 	},
@@ -10853,7 +10853,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?duomai\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10875,7 +10875,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?taboola\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10901,7 +10901,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?china\\.com\\.cn/2016ads/"
 		]
 	},
@@ -10922,7 +10922,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?afp\\.chinanews\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10938,7 +10938,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?i8\\.chinanews\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10960,7 +10960,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?img-ads\\.csdn\\.net/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -10982,7 +10982,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?rabc1\\.iteye\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -11000,7 +11000,7 @@
 			"popup",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?mydisplay\\.ctfile\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -11022,7 +11022,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?uniondm\\.cz88\\.net/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -11038,7 +11038,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?cmsjs\\.eastmoney\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -11053,7 +11053,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?fund\\.eastmoney\\.com/trade/hot_"
 		]
 	},
@@ -11073,7 +11073,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?www\\.epinv\\.com/wp-content/themes/ep/tu/"
 		]
 	},
@@ -11087,7 +11087,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?firefoxchina\\.cn/html/"
 		]
 	},
@@ -11101,7 +11101,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?cn\\.ft\\.com/m/marketing/"
 		]
 	},
@@ -11115,7 +11115,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?cn\\.ft\\.com/a\\.html\\?"
 		]
 	},
@@ -11129,7 +11129,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?www\\.ftchinese\\.com/a\\.html"
 		]
 	},
@@ -11144,7 +11144,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?gamersky\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -11166,7 +11166,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?click\\.gamersky\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -11188,7 +11188,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ja\\.gamersky\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -11210,7 +11210,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ja1\\.gamersky\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -11232,7 +11232,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?dm\\.gucheng\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -11254,7 +11254,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?dmjs\\.gucheng\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -11276,7 +11276,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?orz\\.hupu\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -11292,7 +11292,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?t1\\.hoopchina\\.com\\.cn/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -11314,7 +11314,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?hxsame\\.hexun\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -11336,7 +11336,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?itv\\.hexun\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -11351,7 +11351,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?www\\.hexun\\.com/hxpage/index\\.html"
 		]
 	},
@@ -11371,7 +11371,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ithome\\.com/file/js/money/"
 		]
 	},
@@ -11515,7 +11515,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?33\\.pcpop\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -11537,7 +11537,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ashow\\.pcpop\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -11558,7 +11558,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://count\\.pcpop\\.com/ClickPv\\.js"
 		]
 	},
@@ -11578,7 +11578,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?galaxy\\.sogoucdn\\.com/galaxy/"
 		]
 	},
@@ -11609,7 +11609,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?www\\.toutiao\\.com/api/web_ads/"
 		]
 	},
@@ -11653,7 +11653,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?tongj\\.xilu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -11696,7 +11696,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?zchot\\.com/images/jiaoyou"
 		]
 	},
@@ -11749,7 +11749,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.36dm\\.com/js/"
 		]
 	},
@@ -11769,7 +11769,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.36dm\\.com/tbklb/"
 		]
 	},
@@ -11789,7 +11789,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.36dm\\.com/images/250acgsou\\.gif"
 		]
 	},
@@ -11809,7 +11809,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.36dm\\.com/images/680acgsou\\.gif"
 		]
 	},
@@ -11829,7 +11829,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.36dm\\.com/images/bdjd\\.gif"
 		]
 	},
@@ -11860,7 +11860,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://dy1000\\.applecdn\\.net/js/"
 		]
 	},
@@ -11918,7 +11918,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?jiyingdm\\.com/js/loadingshow\\.html"
 		]
 	},
@@ -11969,7 +11969,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ygdy8\\.com/jsy/"
 		]
 	},
@@ -12038,7 +12038,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?s\\.youtube\\.com/api/stats/"
 		]
 	},
@@ -12073,7 +12073,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.acfun\\.cn/adnew\\.aspx"
 		]
 	},
@@ -12099,7 +12099,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?imall\\.cctv\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -12132,7 +12132,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?bjcathay\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -12165,7 +12165,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?pub\\.funshion\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -12187,7 +12187,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?synacast\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -12209,7 +12209,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?de\\.as\\.pptv\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -12224,7 +12224,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?g\\.pptv\\.com/game/"
 		]
 	},
@@ -12244,7 +12244,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?wsacdn1\\.miaopai\\.com/upload-pic/.*\\.jpg$"
 		]
 	},
@@ -12265,7 +12265,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?log1\\.17173\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -12286,7 +12286,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://img\\.kankan\\.xunlei\\.com/.*\\.gif$"
 		]
 	},
@@ -12300,7 +12300,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://misc\\.t\\.kankan\\.com/level_demo/iframe/"
 		]
 	},
@@ -12320,7 +12320,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://static\\.hd\\.baofeng\\.com/script/baidu\\.js"
 		]
 	},
@@ -12374,7 +12374,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?api\\.my\\.tv\\.sohu\\.com/wm/getads\\.do\\?"
 		]
 	},
@@ -12395,7 +12395,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?aty\\.sohu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -12417,7 +12417,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?go\\.sohu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -12471,7 +12471,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?da\\.mgtv\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -12553,7 +12553,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?a\\.ckm\\.iqiyi\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -12574,7 +12574,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?am\\.cupid\\.iqiyi\\.com/am"
 		]
 	},
@@ -12605,7 +12605,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?tip\\.soku\\.com/searches/soku/kubox/v4/sideads\\.json\\?"
 		]
 	},
@@ -12657,7 +12657,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?atm\\.youku\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -12679,7 +12679,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?l\\.youku\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -12701,7 +12701,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?module\\.youku\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -12716,7 +12716,7 @@
 		"resource-type": [
 			"raw"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^stuns?:([^/]+\\.)?bilibili\\.com/html/"
 		]
 	},
@@ -12730,7 +12730,7 @@
 		"resource-type": [
 			"raw"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^turns?:([^/]+\\.)?bilibili\\.com/html/"
 		]
 	},
@@ -12750,7 +12750,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?bilibili\\.com/html/"
 		]
 	},
@@ -12769,7 +12769,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?api\\.bilibili\\.com/x/web-show/res/loc\\?pf="
 		]
 	},
@@ -12811,7 +12811,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?data\\.bilibilijj\\.com/free/.*\\.txt"
 		]
 	},
@@ -12891,7 +12891,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?banana\\.le\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -12913,7 +12913,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?wan\\.douyu\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -12935,7 +12935,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?g\\.huya\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -12956,7 +12956,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?luckstatic\\.v1\\.cn/st/10000/"
 		]
 	},
@@ -12999,7 +12999,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?bokecc\\.com/flash/playlog\\?"
 		]
 	},
@@ -13020,7 +13020,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?click\\.bokecc\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -13042,7 +13042,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?imedia\\.bokecc\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -14551,7 +14551,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cn/adfile/"
 		]
 	},
@@ -14571,7 +14571,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cn/adv/"
 		]
 	},
@@ -14591,7 +14591,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cn/advertis"
 		]
 	},
@@ -14611,7 +14611,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cn/js/cpv"
 		]
 	},
@@ -14631,7 +14631,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cn/s\\?z="
 		]
 	},
@@ -14651,7 +14651,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cn/tlgg/"
 		]
 	},
@@ -14717,7 +14717,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/adfile/"
 		]
 	},
@@ -14737,7 +14737,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/adfiles/"
 		]
 	},
@@ -14757,7 +14757,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/adimg"
 		]
 	},
@@ -14777,7 +14777,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/adright"
 		]
 	},
@@ -14797,7 +14797,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/adv\\.php\\?"
 		]
 	},
@@ -14837,7 +14837,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/advview"
 		]
 	},
@@ -14868,7 +14868,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/banners/"
 		]
 	},
@@ -14919,7 +14919,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/code/cpm\\.asp\\?pid="
 		]
 	},
@@ -14939,7 +14939,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/code/cpv\\.asp\\?"
 		]
 	},
@@ -14959,7 +14959,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/code1/"
 		]
 	},
@@ -14979,7 +14979,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/cpc/"
 		]
 	},
@@ -15021,7 +15021,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/cpf/"
 		]
 	},
@@ -15041,7 +15041,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/cpm/"
 		]
 	},
@@ -15072,7 +15072,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/cpv/"
 		]
 	},
@@ -15104,7 +15104,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/cpv_"
 		]
 	},
@@ -15124,7 +15124,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/cs/jsfile/"
 		]
 	},
@@ -15181,7 +15181,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/i\\.php\\?z="
 		]
 	},
@@ -15212,7 +15212,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/images/openad/"
 		]
 	},
@@ -15262,7 +15262,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/js/bd960"
 		]
 	},
@@ -15293,7 +15293,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/js/union/"
 		]
 	},
@@ -15313,7 +15313,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/main/s\\?user="
 		]
 	},
@@ -15344,7 +15344,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/pagecpv/"
 		]
 	},
@@ -15364,7 +15364,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/s\\?z="
 		]
 	},
@@ -15384,7 +15384,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/svnad/"
 		]
 	},
@@ -15418,7 +15418,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/vshow\\.php\\?id="
 		]
 	},
@@ -15438,7 +15438,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?com/webad/"
 		]
 	},
@@ -16336,7 +16336,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?net/adfiles/"
 		]
 	},
@@ -16356,7 +16356,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?net/code/pop_"
 		]
 	},
@@ -21784,7 +21784,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://801\\.tianya\\.cn"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -21806,7 +21806,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://806\\.tianya\\.cn"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -21827,7 +21827,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://a\\.36krcnd\\.com/poster/"
 		]
 	},
@@ -21847,7 +21847,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://a\\.cs090\\.com/biz_icon/"
 		]
 	},
@@ -21879,7 +21879,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://aagw\\.sdo\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -21900,7 +21900,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://abc\\.hkepc\\.com/www/d/"
 		]
 	},
@@ -21943,7 +21943,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adf\\.dahe\\.cn"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -21965,7 +21965,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adpic\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -21987,7 +21987,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adsame\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22009,7 +22009,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adsfile\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22031,7 +22031,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://adv-first\\.ru/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22053,7 +22053,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://afpimages\\.eastday"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22078,7 +22078,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://banners\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22127,7 +22127,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://bill\\.tgbus"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22149,7 +22149,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?biz5\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22171,7 +22171,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://bsch\\.serving-sys\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22192,7 +22192,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://cache\\.adm-cnzz\\.net/js/"
 		]
 	},
@@ -22213,7 +22213,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://common\\.jxnews\\.com\\.cn/20"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22235,7 +22235,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://cop\\.my"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22271,7 +22271,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://cpv\\.channelray"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22304,7 +22304,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://drmcmm\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22326,7 +22326,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://dvs\\.china\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22348,7 +22348,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://eap\\.enorth\\.com\\.cn/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22370,7 +22370,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://eiv\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22422,7 +22422,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?icast\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22470,7 +22470,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://images\\.dayoo\\.com/dywimg/files/201"
 		]
 	},
@@ -22490,7 +22490,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://img\\.kuai\\.xunlei\\.com/img/v2/fen/"
 		]
 	},
@@ -22548,7 +22548,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://img7\\.itiexue\\.net/1827/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22569,7 +22569,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://inte\\.sogou\\.com/ct\\?id="
 		]
 	},
@@ -22590,7 +22590,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://j\\.wit\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22624,7 +22624,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://js\\.bxwxtxt\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22646,7 +22646,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://mg\\.5pk"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22667,7 +22667,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://midinfo\\.baofeng\\.com/conf/"
 		]
 	},
@@ -22688,7 +22688,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://mvads\\.kugou\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22710,7 +22710,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?onclickads\\.net/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22732,7 +22732,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://p\\.ecwan77\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22820,7 +22820,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://pmm\\.people\\.com\\.cn"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22842,7 +22842,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://res\\.kaifu\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22864,7 +22864,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://same\\.jrj\\.com\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -22896,7 +22896,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://tad\\.suning\\.com/snoad/"
 		]
 	},
@@ -22916,7 +22916,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://tga\\.pcgames\\.com\\.cn/adpuba/show\\?"
 		]
 	},
@@ -22947,7 +22947,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://ww\\.xitek\\.com/idzone/"
 		]
 	},
@@ -22979,7 +22979,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?100\\.admin5\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -23006,7 +23006,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.a5\\.net/top"
 		]
 	},
@@ -23026,7 +23026,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.drivergenius\\.com/inc/driverwwwad\\.js\\?"
 		]
 	},
@@ -23040,7 +23040,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.dvbcn\\.com/phpcms/"
 		]
 	},
@@ -23060,7 +23060,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.eeyy\\.com/templates/js/other/yxj\\.js"
 		]
 	},
@@ -23102,7 +23102,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.fuyuanweb\\.net/ajds/"
 		]
 	},
@@ -23133,7 +23133,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.gusuwang\\.com/ymsextweb/fullggw/fullggw"
 		]
 	},
@@ -23153,7 +23153,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.hahade\\.com/tpl/5/loading.*\\.html"
 		]
 	},
@@ -23184,7 +23184,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.hdpfans\\.com/images/icons/"
 		]
 	},
@@ -23215,7 +23215,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.hebei\\.com\\.cn/zygl/hylanda/loadmain\\.js"
 		]
 	},
@@ -23246,7 +23246,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.hinews\\.cn/out/.*\\.js\\?rnd="
 		]
 	},
@@ -23266,7 +23266,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.holdata\\.cn/jzmt\\?id="
 		]
 	},
@@ -23286,7 +23286,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.how361\\.com/data/js\\.php\\?id="
 		]
 	},
@@ -23306,7 +23306,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.huxiu\\.com/static/js/jobAds/"
 		]
 	},
@@ -23348,7 +23348,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.itocp\\.com/html/gk/"
 		]
 	},
@@ -23414,7 +23414,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.liangchan\\.net/aaddaadd/"
 		]
 	},
@@ -23434,7 +23434,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.liangchan\\.net/adf/"
 		]
 	},
@@ -23448,7 +23448,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?bbs\\.miercn\\.com/iframe/"
 		]
 	},
@@ -23468,7 +23468,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?www\\.mt30\\.com/ok/"
 		]
 	},
@@ -23521,7 +23521,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.paopaoche\\.net/skins/count\\.js"
 		]
 	},
@@ -23541,7 +23541,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.pc0359\\.cn/style/js/un\\.js"
 		]
 	},
@@ -23583,7 +23583,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.qjbxw\\.com/bbsgg/"
 		]
 	},
@@ -23603,7 +23603,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.rar8\\.net/htmljs/"
 		]
 	},
@@ -23634,7 +23634,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.ruan8\\.com/img/foot\\.js"
 		]
 	},
@@ -23654,7 +23654,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.shanhaimiwenlu\\.com/sh\\.js"
 		]
 	},
@@ -23698,7 +23698,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.sznews\\.com/js/sznewsjs2013\\.js"
 		]
 	},
@@ -23740,7 +23740,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.tiexue\\.net/domain-policy/"
 		]
 	},
@@ -23815,7 +23815,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.uzzf\\.com/js/"
 		]
 	},
@@ -23868,7 +23868,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.xp85\\.com/statics/js/all\\.js"
 		]
 	},
@@ -23882,7 +23882,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://www\\.youxiaxiazai\\.com/db_top/"
 		]
 	},
@@ -23902,7 +23902,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://x\\.tiexue\\.net/domain-policy/"
 		]
 	},
@@ -23917,7 +23917,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://x\\.xso\\."
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -23938,7 +23938,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://zalra\\.qiniudn\\.com/zhou2\\.jpg"
 		]
 	},
@@ -23972,7 +23972,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https://cdn\\.adf\\.ly/js/entry\\.js"
 		]
 	},
@@ -24005,7 +24005,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?168ad\\.cc([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24020,7 +24020,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?17173\\.com/if/"
 		]
 	},
@@ -24037,7 +24037,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?17173\\.com/x/"
 		]
 	},
@@ -24074,7 +24074,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?1717gs\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24095,7 +24095,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?178\\.com/glr\\.js"
 		]
 	},
@@ -24116,7 +24116,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?178gg\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24141,7 +24141,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?1797wan\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24163,7 +24163,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?17leyi\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24188,7 +24188,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?198game\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24210,7 +24210,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?1qwe3r\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24232,7 +24232,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?1tlm\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24254,7 +24254,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?1x3x\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24276,7 +24276,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?21union\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24298,7 +24298,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?233wo\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24335,7 +24335,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?265union\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24357,7 +24357,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?2a\\.com\\.cn"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24382,7 +24382,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?2bj\\.cn"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24407,7 +24407,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?2yt\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24429,7 +24429,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?31\\.media\\.tumblr\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24465,7 +24465,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?315gg\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24500,7 +24500,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?336\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24522,7 +24522,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?339\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24544,7 +24544,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?3393\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24566,7 +24566,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?37cs\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24588,7 +24588,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?37mnm\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24610,7 +24610,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?37pk49\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24632,7 +24632,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?37see\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24654,7 +24654,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?3808010\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24676,7 +24676,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?3839168\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24698,7 +24698,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?38499\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24720,7 +24720,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?3975lm\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24742,7 +24742,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?3dwwwgame\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24764,7 +24764,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?4466\\.com/4466/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24786,7 +24786,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?504pk\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24808,7 +24808,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?51ads\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24833,7 +24833,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?51yes\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24858,7 +24858,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?5293\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24883,7 +24883,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?52xiyou\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24905,7 +24905,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?559gp\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24930,7 +24930,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?66wen\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -24946,7 +24946,7 @@
 			"script",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?66ys\\.cc/d/"
 		]
 	},
@@ -24966,7 +24966,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?68\\.168\\.16\\.153/forum/paypic/"
 		]
 	},
@@ -24987,7 +24987,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?685wo\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25009,7 +25009,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?6dad\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25031,7 +25031,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?6dvip\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25053,7 +25053,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?70e\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25075,7 +25075,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?71sem\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25100,7 +25100,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?7759\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25122,7 +25122,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?778669\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25144,7 +25144,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?7794\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25166,7 +25166,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?77power\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25188,7 +25188,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?77u\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25210,7 +25210,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?77xtv\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25235,7 +25235,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?7cip\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25260,7 +25260,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?7clink\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25276,7 +25276,7 @@
 			"script",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?7edown\\.com/newbd/"
 		]
 	},
@@ -25296,7 +25296,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?7edown\\.com/show/complete\\.js"
 		]
 	},
@@ -25317,7 +25317,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?86file\\.megajoy\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25339,7 +25339,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?88210212\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25364,7 +25364,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?88cpc\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25389,7 +25389,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?88ng\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25411,7 +25411,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?88rpg\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25436,7 +25436,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?8989u\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25458,7 +25458,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?8dulm\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25480,7 +25480,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?8jkx\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25505,7 +25505,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?8le8le\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25527,7 +25527,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?8ox\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25549,7 +25549,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?911\\.cc([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25570,7 +25570,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?9115\\.na\\.tl/addc/"
 		]
 	},
@@ -25591,7 +25591,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?91ad\\.bestvogue\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25613,7 +25613,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?91adv\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25635,7 +25635,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?9519\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25657,7 +25657,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?99ddd\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25679,7 +25679,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?9tn\\.cc([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25701,7 +25701,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?a-ads\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25723,7 +25723,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?a3p4\\.net([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25745,7 +25745,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?a7shun\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25767,7 +25767,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?aa\\.sdo\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25789,7 +25789,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?acm\\.dzwww\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25814,7 +25814,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?acs86\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25836,7 +25836,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?acsystem\\.wasu\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25858,7 +25858,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ad1\\.p5w\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25883,7 +25883,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ad8\\.cc([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25908,7 +25908,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adcash\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25930,7 +25930,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adexprt\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25952,7 +25952,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adhai\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25977,7 +25977,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adjuggler\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -25999,7 +25999,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adkongjian\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26021,7 +26021,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adm\\.xmfish\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26043,7 +26043,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?admaji\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26065,7 +26065,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adnxs\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26090,7 +26090,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adpro\\.cn"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26115,7 +26115,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adpush\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26140,7 +26140,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ads360\\.cn"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26162,7 +26162,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ads80\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26187,7 +26187,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adsage\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26209,7 +26209,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adsame\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26234,7 +26234,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adsfactor\\.net([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26256,7 +26256,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adshost2\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26281,7 +26281,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adszui\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26303,7 +26303,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adultfriendfinder\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26325,7 +26325,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adxpansion\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26350,7 +26350,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?adxquare\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26375,7 +26375,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?aidaicn\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26410,7 +26410,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ajhdf\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26458,7 +26458,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?amazon-adsystem\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26480,7 +26480,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?analytics-union\\.xunlei\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26502,7 +26502,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?aoodoo\\.weiphone\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26527,7 +26527,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?at918\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26549,7 +26549,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?at98\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26574,7 +26574,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?b2b\\.cn"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26596,7 +26596,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?badao37\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26621,7 +26621,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?baitaiad\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26643,7 +26643,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?behe\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26665,7 +26665,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?biz\\.weibo\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26687,7 +26687,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?biz37\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26712,7 +26712,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?blogad\\.com\\.tw"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26737,7 +26737,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?bloggerads\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26759,7 +26759,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?btyou\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26784,7 +26784,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?buysellads\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26809,7 +26809,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?buzzads\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26831,7 +26831,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?by\\.dm5\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26853,7 +26853,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?by\\.tel\\.cdndm\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26875,7 +26875,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?caamei\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26897,7 +26897,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cachead\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26919,7 +26919,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?caiyifz\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -26940,7 +26940,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ccav5\\.com/static/js/gtool\\.js"
 		]
 	},
@@ -26960,7 +26960,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cdn\\.zampdsp\\.com/static/scripts/"
 		]
 	},
@@ -26981,7 +26981,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cdnads\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27006,7 +27006,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?chanet\\.com\\.cn"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27038,7 +27038,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?chcj\\.net/comiis_ad/gg\\.gif"
 		]
 	},
@@ -27059,7 +27059,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?chinauma\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27081,7 +27081,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ciyitan\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27103,7 +27103,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?clkads\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27125,7 +27125,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cloudad\\.asia"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27146,7 +27146,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cm\\.emarbox\\.com/_cm\\?"
 		]
 	},
@@ -27167,7 +27167,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cn\\.innity-asia\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27189,7 +27189,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?code\\.kaixinjiehun\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27211,7 +27211,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?code\\.yqw88\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27254,7 +27254,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?coinurl\\.com/get\\.php\\?id="
 		]
 	},
@@ -27275,7 +27275,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cpcv\\.cc([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27297,7 +27297,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cpm\\.cm\\.sandai\\.net([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27319,7 +27319,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cpms\\.cc([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27344,7 +27344,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?csbew\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27366,7 +27366,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cy123\\.cc([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27388,7 +27388,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cyacc\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27410,7 +27410,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cyad\\.cc([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27432,7 +27432,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?cyad123\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27454,7 +27454,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?d1ad\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27476,7 +27476,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?d8360\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27501,7 +27501,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?d9ad\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27523,7 +27523,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?dairuqi\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27548,7 +27548,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?daoyoudao\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27570,7 +27570,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?df77\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27595,7 +27595,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?dhlh\\.org([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27617,7 +27617,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?dimg1\\.sz\\.net\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27639,7 +27639,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?dipan\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27664,7 +27664,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?directrev\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27685,7 +27685,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?djbox\\.ku8box\\.com:8888/dj2010yy_ad\\.swf"
 		]
 	},
@@ -27716,7 +27716,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?dm5\\.com/wxhfm\\.html\\?cid="
 		]
 	},
@@ -27737,7 +27737,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?dmtrck\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27786,7 +27786,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?dreamine\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27811,7 +27811,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?duoduo\\.net([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27833,7 +27833,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?dushimj\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27855,7 +27855,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ebp\\.renren\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27877,7 +27877,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ecuc123\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27899,7 +27899,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ee4kdushuba\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27924,7 +27924,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?eeeqi\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27949,7 +27949,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?eeyy\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27974,7 +27974,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?egooad\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -27995,7 +27995,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?enet\\.com\\.cn/home/v6/images/adiy"
 		]
 	},
@@ -28019,7 +28019,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ete\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28041,7 +28041,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?eteun\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28063,7 +28063,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?exoclick\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28085,7 +28085,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?eyouv\\.cn"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28107,7 +28107,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?f8272\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28129,7 +28129,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?fansi365\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28151,7 +28151,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?fastapi\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28176,7 +28176,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?feitian001\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28198,7 +28198,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?fxxgw\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28223,7 +28223,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?gaoduan\\.cc([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28257,7 +28257,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ggmm777\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28278,7 +28278,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ggpc\\.591hx\\.com/gg"
 		]
 	},
@@ -28299,7 +28299,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ggxt\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28321,7 +28321,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?gma1\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28343,7 +28343,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?go\\.hangzhou\\.com\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28365,7 +28365,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?gs307\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28387,7 +28387,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?guduopu\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28412,7 +28412,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?haiyunx\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28437,7 +28437,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?haizhangs\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28473,7 +28473,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?hauchi\\.com\\.tw([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28495,7 +28495,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?hefan365\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28520,7 +28520,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?heima8\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28542,7 +28542,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?hh6666\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28563,7 +28563,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?home\\.xdf\\.cn/lee_sq/js/"
 		]
 	},
@@ -28584,7 +28584,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?huahuaka\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28609,7 +28609,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ie\\.5500w\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28634,7 +28634,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ihualun\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28656,7 +28656,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?images\\.chinaz\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28677,7 +28677,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?images\\.sohu\\.com/bill/"
 		]
 	},
@@ -28697,7 +28697,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?images\\.sohu\\.com/ytv/.*\\.jpg$"
 		]
 	},
@@ -28718,7 +28718,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?img\\.libdd\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28743,7 +28743,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?img\\.uu1001\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28778,7 +28778,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?innity\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28800,7 +28800,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?insenz\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28822,7 +28822,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?instreet\\.cn"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28844,7 +28844,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ipic\\.staticsdo\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28866,7 +28866,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?jczzjx\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28888,7 +28888,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?jiehunmishu\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28910,7 +28910,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?jisucn\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28935,7 +28935,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?jixing8\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28957,7 +28957,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?jmsyzj\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -28982,7 +28982,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?jntmedia\\.cn"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29004,7 +29004,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?jp88\\.cc([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29025,7 +29025,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?js\\.17173\\.com/ping\\.js"
 		]
 	},
@@ -29046,7 +29046,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?jtys8\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29071,7 +29071,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?juhuisuan\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29093,7 +29093,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?juicyads\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29141,7 +29141,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?jwqj\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29184,7 +29184,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?kaicn\\.com/style/js/js\\.js"
 		]
 	},
@@ -29208,7 +29208,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?kang08\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29233,7 +29233,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?kefeng56\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29255,7 +29255,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?kejet\\.net([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29291,7 +29291,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?keytui\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29313,7 +29313,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?kk7kk\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29335,7 +29335,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?koowo\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29357,7 +29357,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ku63\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29382,7 +29382,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?kuqi\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29407,7 +29407,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?liangao\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29429,7 +29429,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?life-mo\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29451,7 +29451,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?lnr2\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29472,7 +29472,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?lofter\\.com/mailentry\\.do\\?blogad=1"
 		]
 	},
@@ -29508,7 +29508,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?lrswl\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29533,7 +29533,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?madadsmedia\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29558,7 +29558,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?manyou\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29580,7 +29580,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?market\\.178\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29602,7 +29602,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?media8\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29627,7 +29627,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?mediav\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29649,7 +29649,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?mgwl668\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29671,7 +29671,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?miaozhen\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29693,7 +29693,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?mnwan\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29715,7 +29715,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?mosa86\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29737,7 +29737,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?mtxsk\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29758,7 +29758,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?mxde\\.com/js/05sun\\.js"
 		]
 	},
@@ -29794,7 +29794,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?myzwqwe12\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29816,7 +29816,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?naqigs\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29850,7 +29850,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?niurenw\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29872,7 +29872,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?niux88\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29894,7 +29894,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?o091i\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29916,7 +29916,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?oadz\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29938,7 +29938,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?okm918\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29960,7 +29960,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?okokw\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -29982,7 +29982,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?onetad\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30004,7 +30004,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ooss\\.oss\\.aliyuncs\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30029,7 +30029,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?optaim\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30050,7 +30050,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ouyaoxiazai\\.com/hengfu\\.js"
 		]
 	},
@@ -30071,7 +30071,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?p\\.inte\\.sogou\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30093,7 +30093,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?p\\.kugou\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30127,7 +30127,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?pagechoice\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30149,7 +30149,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?pagechoice\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30170,7 +30170,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?paipaitxt\\.com/bans/"
 		]
 	},
@@ -30191,7 +30191,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?pangu\\.cc([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30234,7 +30234,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?pcgames\\.com\\.cn/g/.*/fz/"
 		]
 	},
@@ -30255,7 +30255,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?pee\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30271,7 +30271,7 @@
 			"script",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?piaodown\\.com/other/"
 		]
 	},
@@ -30303,7 +30303,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?pixfuture\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30325,7 +30325,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?pk840\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30347,7 +30347,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?plwan\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30369,7 +30369,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?pop\\.91mangrandi\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30403,7 +30403,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?propellerads\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30418,7 +30418,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?ptfish\\.com/08html/ggf/cptdgg\\.html"
 		]
 	},
@@ -30438,7 +30438,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?pub\\.mop\\.com/show_script\\.jsp"
 		]
 	},
@@ -30459,7 +30459,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?qiyou\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30481,7 +30481,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?qq61\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30496,7 +30496,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?qqtz\\.com/ad"
 		]
 	},
@@ -30517,7 +30517,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?rad\\.msn\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30539,7 +30539,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?rbc\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30561,7 +30561,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?rcm-cn\\.amazon\\.cn"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30583,7 +30583,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?rsccs\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30605,7 +30605,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?rwjfs\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30627,7 +30627,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?rxwan\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30649,7 +30649,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?s1\\.qiuyi\\.cn"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30671,7 +30671,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?shaft\\.jebe\\.renren\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30693,7 +30693,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?shanghaironghua\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30730,7 +30730,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?sharele\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30752,7 +30752,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?show\\.qx15\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30774,7 +30774,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?show\\.xiazai16\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30799,7 +30799,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?snyu\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30824,7 +30824,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?snyu\\.sdo\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30846,7 +30846,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?sphwq\\.net([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30868,7 +30868,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ssjpx\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30890,7 +30890,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?star8\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30911,7 +30911,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?static\\.115img\\.com/static/115tj\\.js"
 		]
 	},
@@ -30931,7 +30931,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?static\\.115img\\.com/static/delivery/"
 		]
 	},
@@ -30952,7 +30952,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?super\\.cat898\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30974,7 +30974,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?syilm\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -30999,7 +30999,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?symboltech\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31021,7 +31021,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?taomato\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31043,7 +31043,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?tbjfw\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31065,7 +31065,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?tc600\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31090,7 +31090,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?tenoad\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31112,7 +31112,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?toushibao\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31134,7 +31134,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ttlm\\.cc([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31156,7 +31156,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?tuigoo\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31178,7 +31178,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?tukj\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31193,7 +31193,7 @@
 		"resource-type": [
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^https?://([^/]+\\.)?tvf4\\.com/.*\\.htm"
 		]
 	},
@@ -31226,7 +31226,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?twb98\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31248,7 +31248,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?twcczhu\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31270,7 +31270,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?tzbtw\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31295,7 +31295,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ucoz\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31317,7 +31317,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ui37\\.net([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31339,7 +31339,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ujian\\.cc([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31364,7 +31364,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ulink\\.cc([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31386,7 +31386,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?up\\.hiao\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31408,7 +31408,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?up\\.qingdaonews\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31433,7 +31433,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?uuu9\\.com/"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31454,7 +31454,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?v\\.17173\\.com/advideo/"
 		]
 	},
@@ -31475,7 +31475,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?vipads\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31500,7 +31500,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?vpie\\.net([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31522,7 +31522,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?vsnoon\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31544,7 +31544,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?vupload\\.duowan\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31566,7 +31566,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?wo685\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31588,7 +31588,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?womenwan\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31610,7 +31610,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?wudang05\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31632,7 +31632,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?www\\.32414\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31657,7 +31657,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?www\\.3alian\\.net([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31682,7 +31682,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?www\\.52zdm\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31704,7 +31704,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?www\\.cliushow\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31726,7 +31726,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?www\\.hhlian\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31748,7 +31748,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?www\\.hi686\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31770,7 +31770,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?www\\.you1ad\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31792,7 +31792,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xcy8\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31817,7 +31817,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xdwan\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31842,7 +31842,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xhunion\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31864,7 +31864,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xiaohei\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31886,7 +31886,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xifatime\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31911,7 +31911,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xihawan8\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31933,7 +31933,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xinray\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31958,7 +31958,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xinwenke\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -31979,7 +31979,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xiumei\\.com/yeyou/"
 		]
 	},
@@ -32000,7 +32000,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xp3366\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32022,7 +32022,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xq12\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32044,7 +32044,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xstar\\.cc([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32069,7 +32069,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?xsu\\.cc([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32094,7 +32094,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ycmedia\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32119,7 +32119,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ydcpc\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32144,7 +32144,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ye3\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32169,7 +32169,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yengo\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32191,7 +32191,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yieldmanager\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32213,7 +32213,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yigao\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32235,7 +32235,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yiiwoo\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32260,7 +32260,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yinoo\\.cn([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32285,7 +32285,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yinooo\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32310,7 +32310,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yiqifa\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32335,7 +32335,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yiyilm\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32357,7 +32357,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ykbei\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32379,7 +32379,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yktj\\.yzz\\.cn"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32401,7 +32401,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yongv\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32426,7 +32426,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?youle55\\.com([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32447,7 +32447,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?youth\\.cn/images/adyun\\.js"
 		]
 	},
@@ -32468,7 +32468,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?youxicool\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32500,7 +32500,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yy\\.com/policy/"
 		]
 	},
@@ -32520,7 +32520,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?yy\\.duowan\\.com/component/"
 		]
 	},
@@ -32541,7 +32541,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?ze5\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32563,7 +32563,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?zhanzhang\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32584,7 +32584,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?zhiboche\\.com/check\\."
 		]
 	},
@@ -32608,7 +32608,7 @@
 		"load-type": [
 			"third-party"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?zhichangwo\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32630,7 +32630,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?zisunion\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32652,7 +32652,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?zjbdt\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32674,7 +32674,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?zuche321\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32696,7 +32696,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?zytwq\\.net"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32717,7 +32717,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^http://icons\\.mydrivers\\.com/news/201.*\\.gif$"
 		]
 	},
@@ -32738,7 +32738,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?crl\\.microsoft\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32760,7 +32760,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?rad\\.microsoft\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
@@ -32782,7 +32782,7 @@
 			"raw",
 			"document"
 		],
-		"unless-top-url": [
+		"unless-domain ": [
 			"^[^:]+:(//)?([^/]+\\.)?watson\\.microsoft\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
